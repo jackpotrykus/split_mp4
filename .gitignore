@@ -1,3 +1,12 @@
+# OSX
+*.DS_Store
+
+# Sample output directory for `example_usage.py`
+sample_outputs/
+
+# Tags files
+*tags
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
